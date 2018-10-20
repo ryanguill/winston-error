@@ -27,6 +27,11 @@
     "winston": "^2.1.1"
   },
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash.clone": "^4.5.0",
+    "lodash.defaults": "^4.2.0",
+    "lodash.drop": "^4.1.1",
+    "lodash.keys": "^4.2.0",
+    "lodash.partial": "^4.2.1",
+    "lodash.pick": "^4.4.0"
   }
 }
